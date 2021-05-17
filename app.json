@@ -1,0 +1,12 @@
+{
+  "name": "gplayermobile",
+  "displayName": "gplayermobile",
+  "expo": {
+    "name": "gplayermobile",
+    "slug": "gplayermobile",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
