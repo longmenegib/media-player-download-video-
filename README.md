@@ -1,1 +1,3 @@
 "# none" 
+this is an ongoing side project with react native. 
+a media player which you can also download videos and watch movies online...
